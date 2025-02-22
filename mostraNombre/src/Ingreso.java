@@ -21,4 +21,10 @@ public class Ingreso {
 
     }
 
+    public void eliminarNombre(String nombre) {
+        nombres.remove(nombre);
+    }
+
+
+
 }
