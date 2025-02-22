@@ -7,12 +7,11 @@ public class Niño {
     private String nombreAcu;
     private String numeroAcu;
 
-    public Niño(String nombre, String edad, String genero,
-                String id, String alergias, String nombreAcu, String numeroAcu) {
+    public Niño(String nombre, String edad, String genero, int id, String alergias, String nombreAcu, String numeroAcu) {
         this.nombre = nombre;
         this.edad = edad;
         this.genero = genero;
-        this.id = 0;
+        this.id = id;
         this.alergias = alergias;
         this.nombreAcu = nombreAcu;
         this.numeroAcu = numeroAcu;
@@ -45,8 +44,9 @@ public class Niño {
     public int getId() {
         return id;
     }
-    public void setId(String id) {
-        this.id = 0;
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getAlergias() {
@@ -72,6 +72,4 @@ public class Niño {
     public void setNumeroAcu(String numeroAcu) {
         this.numeroAcu = numeroAcu;
     }
-
-
 }
