@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2025.iml" filepath="$PROJECT_DIR$/.idea/2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicioEmpleado/ejercicioEmpleado.iml" filepath="$PROJECT_DIR$/ejercicioEmpleado/ejercicioEmpleado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guarderia/guarderia.iml" filepath="$PROJECT_DIR$/guarderia/guarderia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moda/moda.iml" filepath="$PROJECT_DIR$/moda/moda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mostraNombre/mostraNombre.iml" filepath="$PROJECT_DIR$/mostraNombre/mostraNombre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numeroAscendente/numeroAscendente.iml" filepath="$PROJECT_DIR$/numeroAscendente/numeroAscendente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numeroMayor/numeroMayor.iml" filepath="$PROJECT_DIR$/numeroMayor/numeroMayor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabla/tabla.iml" filepath="$PROJECT_DIR$/tabla/tabla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tallerempresa/tallerempresa.iml" filepath="$PROJECT_DIR$/tallerempresa/tallerempresa.iml" />
+    </modules>
+  </component>
+</project>
